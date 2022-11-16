@@ -1,4 +1,4 @@
-## Lga MobileID OSS - open source edition
+## Liga MobileID OSS - open source edition
 
 Liga MobileID (OSS) version 1.0. This is the first version of the open source edition of Liga MobileID for usage with JCOP smart cards combined with the GIDS applet.
 
@@ -9,6 +9,14 @@ The app is made with open souce components using Flutter, OpenSC, GIDS applet an
 The Liga MobileID is developed together with Alexandra Instituttet and is funded by Cyber Hub Denmark and Industriens Fond.
 
 Get in contact with Liga: https://www.liga.com/mobileid
+
+### Apple iOS app download
+
+https://apps.apple.com/dk/app/liga-mobileid-oss/id1633229741
+
+### Google Play Android app download
+
+Commning soon ...
 
 
 <!--
