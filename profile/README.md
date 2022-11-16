@@ -1,6 +1,15 @@
-## Hi there 👋
+## Lga MobileID OSS - open source edition
 
-" text is missing - stay tuned "
+Liga MobileID (OSS) version 1.0. This is the first version of the open source edition of Liga MobileID for usage with JCOP smart cards combined with the GIDS applet.
+
+This app brings secure authentication to mobile phones with a security stack that includes openness, guaranty, simplicity and convenience while not breaching any privacy concerns in terms of backdoors or biometric authentication technology.
+
+The app is made with open souce components using Flutter, OpenSC, GIDS applet and in the backend Spring Boot, OpenJDK and Tomcat.
+
+The Liga MobileID is developed together with Alexandra Instituttet and is funded by Cyber Hub Denmark and Industriens Fond.
+
+Get in contact with Liga: https://www.liga.com/mobileid
+
 
 <!--
 
