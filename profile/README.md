@@ -18,7 +18,7 @@ https://apps.apple.com/dk/app/liga-mobileid-oss/id1633229741
 
 Commning soon ...
 
-### Video demnstration of Apple iOS app
+### Video demonstration of Apple iOS app
 
 https://vimeo.com/771524639
 
