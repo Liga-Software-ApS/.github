@@ -8,7 +8,6 @@ The app is made with open source components using Flutter, OpenSC, GIDS applet a
 
 The Liga MobileID is developed together with Alexandra Instituttet and is funded by Cyber Hub Denmark and Industriens Fond.
 
-Get in contact with Liga: https://www.liga.com/mobileid
 
 ### Apple iOS app download
 
